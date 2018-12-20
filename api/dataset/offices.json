@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Mobile First Branch South",
+        "name": "Sam Kneads Pizza South",
         "address": "3030 Surf Ave Brooklyn \nNew York, NY, 11224, USA",
         "location": {
             "longitude": -73.9976795,
@@ -11,7 +11,7 @@
     },
     {
         "id": "2",
-        "name": "Mobile First Branch North",
+        "name": "Sam Kneads Pizza North",
         "address": "4040 Carpenter Ave Bronx\nNew York, NY, 10466, USA",
         "location": {
             "latitude": 40.8905273,
@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "name": "Mobile First Branch Downtown",
+        "name": "Sam Kneads Pizza Downtown",
         "address": "114 E 3rd St\nNew York, NY, 10009, USA",
         "location": {
             "latitude": 40.7239812,
@@ -31,7 +31,7 @@
     },
     {
         "id": "4",
-        "name": "Mobile First Branch Downtown 2",
+        "name": "Sam Kneads Pizza Downtown 2",
         "address": "68 Barrow St\nNew York, NY, 10014, USA",
         "location": {
             "latitude": 40.731782,
@@ -41,7 +41,7 @@
     },
     {
         "id": "5",
-        "name": "Mobile First Branch North 2",
+        "name": "Sam Kneads Pizza North 2",
         "address": "4730 Fieldston Rd Bronx\nNew York, NY, 10471, USA",
         "location": {
             "latitude": 40.8961185,

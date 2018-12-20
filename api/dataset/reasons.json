@@ -1,19 +1,19 @@
 [
     {
         "id": "mortgage",
-        "text": "Mortgage",
+        "text": "Call Artist",
         "isPersonalService": "true"
     },
     {
         "id": "credit_card",
-        "text": "Credit card"
+        "text": "Reservations"
     },
     {
         "id": "savings",
-        "text": "Savings account"
+        "text": "Place Order"
     },
     {
         "id": "currency",
-        "text": "Currency operations"
+        "text": "Call Ahead"
     }
 ]

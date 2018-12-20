@@ -43,6 +43,6 @@ export = {
         }
     },
     user: {
-        welcomeMessageText: 'Please install the application to access Mobile First Branch https://bit.ly/2jNpKA1'
+        welcomeMessageText: 'Please install the application to access Downtown Clothes https://bit.ly/2jNpKA1'
     }
 };

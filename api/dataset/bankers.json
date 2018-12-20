@@ -2,25 +2,25 @@
     {
         "id": "01",
         "name": "Mr Smith",
-        "specialty": "Credit card specialist",
+        "specialty": "Pizza Artist",
         "status": "OFFLINE"
     },
     {
         "id": "02",
         "name": "Mrs Smith",
-        "specialty": "Credit card specialist",
+        "specialty": "Pizza Artist",
         "status": "OFFLINE"
     },
     {
         "id": "03",
         "name": "Mr John",
-        "specialty": "Mortgage specialist",
+        "specialty": "Pizza Artist",
         "status": "OFFLINE"
     },
     {
         "id": "04",
         "name": "Mr Test John",
-        "specialty": "Credit card specialist",
+        "specialty": "Pizza Artist",
         "status": "OFFLINE"
     }
 ]
