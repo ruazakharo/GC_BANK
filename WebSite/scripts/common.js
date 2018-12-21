@@ -1,4 +1,4 @@
-var SERVER_URL = 'api';
+var SERVER_URL = 'botf/api';
 
 $(function(){
     $("#sliderContent").load("www/slider.html", () => {
