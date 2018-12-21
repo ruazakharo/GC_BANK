@@ -1,4 +1,4 @@
-var SERVER_URL = 'http://35.193.170.225:8000/botf/api';
+var SERVER_URL = 'api';
 
 $(function(){
     $("#sliderContent").load("www/slider.html", () => {
