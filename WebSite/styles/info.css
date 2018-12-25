@@ -64,7 +64,7 @@
 
 .accountInfoButton {
     align-self: center;
-    background-color: #0ba9e3;
+    background-color: #ff9f34;
     border: none;
     color: white;
     padding: 5px 35px;
@@ -138,7 +138,7 @@ input[type=text]:focus {
 
 .accountInfoSelect label::after {
     background-image: url("../images/arrow-select.svg");
-    background-color: #0ba9e3;
+    background-color: #ff9f34;
 }
 
 .accountInfoSelect:focus {
@@ -205,7 +205,7 @@ input[type=text]:focus {
     font-stretch: normal;
     letter-spacing: normal;
     text-align: left;
-    color: #0ba9e3;
+    color: #ff9f34;
     padding-left: 14px;
 }
 

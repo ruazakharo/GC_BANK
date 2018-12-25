@@ -35,11 +35,11 @@ export = {
         secret: 'FVSXhgPolUDtYnDgmcV1V1aYJMpwjasFf2wejFFP'
     },
     sms: {
-        enabled: true,
-        senderPhoneNumber: '+16466812929',
+        enabled: false,
+        senderPhoneNumber: '+14122135249',
         apikey: {
-            SID: 'AC0c6089c71447fc5f578f370af0b4df26',
-            Token: '51fb46db9a7cc9b87777b053a11c14c1'
+            SID: 'AC5ff65ef5fd062188421ca1df94fab57d',
+            Token: 'ca07f6a520c5f048d2bb5633f9801f4b'
         }
     },
     user: {

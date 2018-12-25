@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: row;
     height: 30px;
-    background: #056498;
-    opacity: 0.4;
+    background: #ff9f34;
+    opacity: 0.6;
     justify-content: space-around;
 }
 
@@ -30,6 +30,6 @@
     color: #ffffff;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
-    opacity: 0.9;
+    opacity: 1;
     line-height: 3.13
 }

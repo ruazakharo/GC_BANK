@@ -10,7 +10,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 86px;
+    width: 152px;
     height: 76px;
     background-image: url('../images/botf-icon-2.png');
     background-size: 100% 100%;
@@ -34,16 +34,16 @@
     font-stretch: normal;
     line-height: 3.23;
     letter-spacing: normal;
-    color: #7a8d97;
+    color: #ffc585;
     border-bottom: 3px solid white;
     opacity: 0.9;
 }
 
 .mainMenuButtonsBlock a.active {
-    color: #056498;
-    border-bottom: 3px solid #0ba9e3;
+    color: #ff9f34;
+    border-bottom: 3px solid #ff9f34;
 }
 
 .mainMenuButtonsBlock a:hover {
-    color: #056498;
+    color: #ff9f34;
 }
